@@ -1,0 +1,51 @@
+﻿id,factuality,relevance,hallucination,explanation,judge_time
+0,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.7013940811157227
+1,4.0,4.0,False,The summary accurately reflects the key points of the source article without introducing new or unsupported information.,2.647888660430908
+2,4.0,4.0,False,The summary accurately captures key points from the article without introducing new or unsupported information.,3.6879749298095703
+3,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.596487045288086
+4,5.0,5.0,False,The summary accurately captures key points from the source article without adding or omitting information.,2.6252593994140625
+5,4.0,4.0,False,The summary accurately captures key details from the source article and focuses on relevant information.,2.5612540245056152
+6,4.0,4.0,False,The summary accurately captures key details from the source article such as Arafat Yalchi's age and location of his death. It does not introduce new facts or hallucinations.,3.4525961875915527
+7,4.0,4.0,False,The summary accurately reflects the key points of the source article without adding or omitting significant details.,2.7209742069244385
+8,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.649496078491211
+9,4.0,4.0,False,"The summary accurately reflects the key points of the source article regarding the incident involving anti-fascists and right-wing extremists in Portland, Oregon. It does not introduce new or unsupported information.",3.428473472595215
+10,4.0,4.0,False,The summary accurately captures key details from the source article without adding unsupported or fictional content.,2.569467306137085
+11,4.0,4.0,False,The summary accurately captures key details from the source article without adding unsupported or fictional elements.,2.5581753253936768
+12,2.0,4.0,False,The summary accurately reports the key points of the source article but omits some details and includes incorrect information.,3.4788148403167725
+13,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.827932119369507
+14,4.0,4.0,False,The summary accurately captures key details from the source article such as the cause of death (heart attack) and age (58 years old). It also includes relevant information about the filmography and career highlights of the author.,4.120737791061401
+15,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.776453971862793
+16,4.0,4.0,False,The summary accurately captures the key points of the source article without adding or omitting essential details.,2.649491548538208
+17,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.9648501873016357
+18,4.0,4.0,False,The summary accurately captures key details from the source article without introducing new or unsupported information.,2.603050708770752
+19,4.0,4.0,False,The summary accurately reflects the key points of the source article regarding the court's decision and the charges against the defendants.,2.7641305923461914
+20,4.0,4.0,False,The summary accurately reflects the key points of the source article regarding the number of people affected by the lifting of quarantine measures and mentions the involvement of various regions and authorities.,3.244758129119873
+21,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.503305435180664
+22,4.0,4.0,False,The summary accurately reflects the key points of the source article regarding the number of new coronavirus cases and related statistics. It does not introduce any new or unsupported information.,3.2480902671813965
+23,4.0,4.0,False,The summary accurately reflects the key points of the source article regarding the court ruling and the details of the case.,2.6723759174346924
+24,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.691541910171509
+25,4.0,4.0,False,The summary accurately captures key points from the article without introducing new or unsupported information.,2.516221046447754
+26,4.0,4.0,False,"The summary accurately reflects key details from the source article, including the court's verdict and the amount of money imposed as punishment.",2.848006010055542
+27,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.747992753982544
+28,4.0,4.0,False,The summary accurately captures key points from the study without introducing new or unsupported information.,2.641771078109741
+29,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.5590744018554688
+30,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.584869623184204
+31,3.0,4.0,False,The summary accurately reflects the key points of the source article regarding the number of people detained due to violating health emergency regulations and the total number of detainees since the start of the state of emergency.,3.4339330196380615
+32,4.0,4.0,False,The summary accurately captures the key points of the factually supported claim about food additives causing premature death and mentions two studies supporting this conclusion.,3.0929629802703857
+33,4.0,4.0,False,The summary accurately captures key details from the source article without adding unsupported or fictional elements.,2.504236936569214
+34,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.547628879547119
+35,4.0,4.0,False,The summary accurately reflects the key points of the source article without adding or omitting significant details.,2.4849703311920166
+36,4.0,4.0,False,The summary accurately captures key points from the source article without adding unsupported or fictional content.,2.2792325019836426
+37,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.3883602619171143
+38,4.0,4.0,False,The summary accurately captures key points from the article without introducing new or unsupported information.,2.5151782035827637
+39,4.0,4.0,False,The summary accurately reflects the key points of the source article without adding or omitting significant details.,2.3941595554351807
+40,3.0,4.0,False,The summary accurately captures key points from the source article but omits some details and includes additional context not present in the original.,2.7760438919067383
+41,4.0,4.0,False,The summary accurately reflects the key points of the source article regarding the number of Moroccan residents in Italy and the government's efforts to support them.,2.9182612895965576
+42,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting essential details.,2.350767135620117
+43,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.8675730228424072
+44,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting significant details.,2.31850004196167
+45,4.0,4.0,False,The summary accurately captures key points from the source article without adding unsupported or fictional information.,2.262218952178955
+46,4.0,4.0,False,The summary accurately captures key points from the source article without adding or omitting essential details.,2.2705397605895996
+47,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported claims.,2.361004114151001
+48,4.0,4.0,False,The summary accurately captures key details from the source article without introducing new or unsupported information.,2.2389113903045654
+49,4.0,4.0,False,The summary accurately captures key points from the source article without introducing new or unsupported information.,2.240507125854492

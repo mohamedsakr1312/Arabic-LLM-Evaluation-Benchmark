@@ -1,0 +1,50 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Environment files
+
+.env
+
+# IDE
+
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Python cache
+
+.pytest_cache/
+
+# Model/cache files
+
+.cache/
+huggingface_cache/
+transformers_cache/
+
+# Large model files
+
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+
+*.log
